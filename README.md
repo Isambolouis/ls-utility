@@ -54,16 +54,7 @@ The following functions are available from the root `index.js` entry point:
 
 ---
 
-Ensuite, on fera les autres groupes :
-
-* **🔁 Array and Object Manipulation**
-* **🧪 Testing & Conditions**
-* **🎲 Random & ID Generation**
-* **📊 Math Utilities**
-* **🧩 String Transformation**
-* **🧠 Code Execution Wrappers**
-* **📦 Core Leistrap Utilities (highlighted)** → *(Ex: `leisCode`, `uuid`, `_EventEmitter`, `genXClass`, etc.)*
-
+---
 ---
 
 ### 🛠 Highlighted: Core Utilities for Leistrap
